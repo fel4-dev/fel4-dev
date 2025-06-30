@@ -20,7 +20,7 @@ I am a bachelor engineer of computer and inforamtion technologys 🎓 . I'm a **
 <code><img height="30" src="https://skillicons.dev/icons?i=bootstrap"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=github"/></code>
 <code><img height="30" src="https://skillicons.dev/icons?i=vscode"/></code>
-<code><img height="30" src="https://skillicons.dev/icons?i=visualstudio"/></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=nodejs"/></code>
 
 
 
